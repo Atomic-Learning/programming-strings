@@ -1,0 +1,19 @@
+{
+    "title": "Programming: Strings",
+    "slug": "programming-strings",
+    "description": "Introduction to strings in a language-agnostic way. Covers strings as sequences of characters, properties, indexing, slicing, length operations, concatenation, and immutability across programming languages.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-variables"
+    ],
+    "related": [
+        "programming-objects-types",
+        "python-strings-introduction"
+    ]
+}
